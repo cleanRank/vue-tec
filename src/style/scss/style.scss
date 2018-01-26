@@ -1,0 +1,22 @@
+.app-warpper{
+}
+.container{
+  width:201px;
+  position:fixed;
+  top:70px;
+  bottom:0;
+  left:0;
+  background-color:rgb(84, 92, 100);
+  border-right: solid 1px #e6e6e6;
+}
+
+.table{
+  margin-left:201px;
+}
+.el-menu{
+	border-right:none;
+}
+.el-submenu .el-menu-item a{
+	color:#fff;
+	text-decoration-line:none;
+}
